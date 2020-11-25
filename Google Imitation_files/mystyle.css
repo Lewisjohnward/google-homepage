@@ -1,0 +1,10 @@
+  h1 {
+    color: black;
+    margin-left: 20px;
+  }
+  ul {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
